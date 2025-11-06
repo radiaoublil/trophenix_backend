@@ -1,0 +1,25 @@
+# --- Core dependencies ---
+whisper
+google-generativeai
+torch
+fastapi
+uvicorn
+# --- Audio processing ---
+sounddevice
+scipy
+numpy
+
+# --- Word document generation ---
+python-docx
+
+# --- Utilitaires ---
+tqdm
+tempfile
+python-dotenv
+python-multipart
+pydantic
+
+# ----Frontend-----
+streamlit 
+streamlit-audiorecorder
+requests
