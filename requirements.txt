@@ -1,5 +1,5 @@
 # --- Core dependencies ---
-whisper
+openai-whisper
 google-generativeai
 torch
 fastapi
