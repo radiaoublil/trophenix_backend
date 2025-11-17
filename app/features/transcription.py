@@ -1,6 +1,6 @@
 import whisper
 
-MODEL_NAME = "medium"
+MODEL_NAME = "base"
 model = whisper.load_model(MODEL_NAME)
 
 def transcribe_audio(path):
